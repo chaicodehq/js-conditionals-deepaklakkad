@@ -4,8 +4,8 @@
   "description": "JavaScript Conditionals Lab - Story-based exercises to master if/else, switch, ternary, and logical operators",
   "type": "module",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
-    "test:watch": "node --experimental-vm-modules jest --watchAll"
+    "test":       "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watchAll"
   },
   "keywords": ["javascript", "conditionals", "lab", "education"],
   "license": "MIT",
